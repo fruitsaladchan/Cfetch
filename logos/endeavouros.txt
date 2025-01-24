@@ -1,20 +1,15 @@
-                     -`
-                    .o+`
-                   `ooo/
-                  `+oooo:
-                 `+oooooo:
-                 -+oooooo+:
-               `/:-:++oooo+:
-              `/++++/+++++++:
-             `/++++++++++++++:
-            `/+++ooooooooooooo/`
-           ./ooosssso++osssssso+`
-          .oossssso-````/ossssss+`
-         -osssssso.      :ssssssso.
-        :osssssss/        osssso+++.
-       /ossssssss/        +ssssooo/-
-     `/ossssso+/:-        -:/+osssso+-
-    `+sso+:-`                 `.-/+oso:
-   `++:.                           `-/+/
-   .`                                 `/
-
+                        ./o.
+                      ./sssso-
+                    `:osssssss+-
+                  `:+sssssssssso/.
+                `-/ossssssssssssso/.
+              `-/+sssssssssssssssso+:`
+            `-:/+sssssssssssssssssso+/.
+          `.://osssssssssssssssssssso++-
+         .://+ssssssssssssssssssssssso++:
+       .:///ossssssssssssssssssssssssso++:
+     `:////ssssssssssssssssssssssssssso+++.
+   `-////+ssssssssssssssssssssssssssso++++-
+    `..-+oosssssssssssssssssssssssso+++++/`
+      ./++++++++++++++++++++++++++++++/:.
+     `:::::::::::::::::::::::::------``
